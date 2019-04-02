@@ -1,0 +1,8 @@
+org/keycloak/example/oauth/MessagesChecker.class
+org/keycloak/example/oauth/DatabaseClient$TypedList.class
+org/keycloak/example/oauth/UserData.class
+org/keycloak/example/oauth/AppContextListener.class
+org/keycloak/example/oauth/RefreshTokenFilter.class
+org/keycloak/example/oauth/CDIResourcesProducer.class
+org/keycloak/example/oauth/DatabaseClient.class
+org/keycloak/example/oauth/ServletRequestQualifier.class

@@ -1,0 +1,5 @@
+org/keycloak/example/oauth/Bootstrap.class
+org/keycloak/example/oauth/ProductDatabaseClient.class
+org/keycloak/example/oauth/ProductDatabaseClient$TypedList.class
+org/keycloak/example/oauth/ProductDatabaseClient$Failure.class
+org/keycloak/example/oauth/ProductDatabaseClient$1.class

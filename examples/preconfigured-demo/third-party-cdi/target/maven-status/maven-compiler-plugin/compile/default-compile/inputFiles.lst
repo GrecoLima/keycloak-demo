@@ -1,0 +1,7 @@
+/Users/grecolima/Downloads/keycloak-demo-1.5.0.Final/examples/preconfigured-demo/third-party-cdi/src/main/java/org/keycloak/example/oauth/RefreshTokenFilter.java
+/Users/grecolima/Downloads/keycloak-demo-1.5.0.Final/examples/preconfigured-demo/third-party-cdi/src/main/java/org/keycloak/example/oauth/ServletRequestQualifier.java
+/Users/grecolima/Downloads/keycloak-demo-1.5.0.Final/examples/preconfigured-demo/third-party-cdi/src/main/java/org/keycloak/example/oauth/MessagesChecker.java
+/Users/grecolima/Downloads/keycloak-demo-1.5.0.Final/examples/preconfigured-demo/third-party-cdi/src/main/java/org/keycloak/example/oauth/CDIResourcesProducer.java
+/Users/grecolima/Downloads/keycloak-demo-1.5.0.Final/examples/preconfigured-demo/third-party-cdi/src/main/java/org/keycloak/example/oauth/DatabaseClient.java
+/Users/grecolima/Downloads/keycloak-demo-1.5.0.Final/examples/preconfigured-demo/third-party-cdi/src/main/java/org/keycloak/example/oauth/UserData.java
+/Users/grecolima/Downloads/keycloak-demo-1.5.0.Final/examples/preconfigured-demo/third-party-cdi/src/main/java/org/keycloak/example/oauth/AppContextListener.java

@@ -1,0 +1,3 @@
+org/keycloak/example/ProductSAClientSecretServlet.class
+org/keycloak/example/ProductSAClientSignedJWTServlet.class
+org/keycloak/example/ProductServiceAccountServlet.class

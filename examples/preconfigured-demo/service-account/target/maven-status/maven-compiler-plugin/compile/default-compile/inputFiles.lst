@@ -1,0 +1,3 @@
+/Users/grecolima/Downloads/keycloak-demo-1.5.0.Final/examples/preconfigured-demo/service-account/src/main/java/org/keycloak/example/ProductSAClientSecretServlet.java
+/Users/grecolima/Downloads/keycloak-demo-1.5.0.Final/examples/preconfigured-demo/service-account/src/main/java/org/keycloak/example/ProductServiceAccountServlet.java
+/Users/grecolima/Downloads/keycloak-demo-1.5.0.Final/examples/preconfigured-demo/service-account/src/main/java/org/keycloak/example/ProductSAClientSignedJWTServlet.java
